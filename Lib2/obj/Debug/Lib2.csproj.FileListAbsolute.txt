@@ -1,0 +1,6 @@
+C:\Users\cmleite\Desktop\Git force repo tests\Common Libs\Lib2\Lib2\bin\Debug\Lib2.dll
+C:\Users\cmleite\Desktop\Git force repo tests\Common Libs\Lib2\Lib2\bin\Debug\Lib2.pdb
+C:\Users\cmleite\Desktop\Git force repo tests\Common Libs\Lib2\Lib2\obj\Debug\Lib2.csprojAssemblyReference.cache
+C:\Users\cmleite\Desktop\Git force repo tests\Common Libs\Lib2\Lib2\obj\Debug\Lib2.csproj.CoreCompileInputs.cache
+C:\Users\cmleite\Desktop\Git force repo tests\Common Libs\Lib2\Lib2\obj\Debug\Lib2.dll
+C:\Users\cmleite\Desktop\Git force repo tests\Common Libs\Lib2\Lib2\obj\Debug\Lib2.pdb
